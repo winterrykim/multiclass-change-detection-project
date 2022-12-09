@@ -1,6 +1,9 @@
 ### [MAICON Computer Vision Competition](https://aiconnect.kr/competition/detail/214)
 This team project's goal was to perform multiclass change detection on aerial satellite images. The model performs segmentation, identifying different types of changes including reconstruction, renewal, and demolition.
 
+<p align="center">
+  <img src="https://github.com/winterrykim/multiclass-change-detection-project/blob/main/sample_image.PNG"  width="300" />
+</p>
 
 ### Libraries
 The project was mainly implemented by using [change_detection.pytorch](https://github.com/likyoo/change_detection.pytorch)
