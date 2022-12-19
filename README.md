@@ -19,7 +19,7 @@ Our team experimented multiple methods to solve the problem.
 6. Using different LR Schedulers (CosineAnnealing LR, Step LR)
 7. Increasing the batch size
 
-In conclusion, 1, 2, 3, 5, and 6 seemed to give meaningful effect on the result of this project.
+In conclusion, 1, 2, 3, 5, and 7 seemed to give meaningful effect on the result of this project.
 Filtering images allowed the model to be trained on meaningful datasets. One hot encoding increased the accuracy by allowing the model to decipher demolition and renewal.  Various albumentation prevented the model from being overtrained on particular set of images. Hybrid loss increased the accuracy by 0.1~0.5%. Batch size seems to be the most significant factor.
 
 ### Further Reading and Potential Improvements
